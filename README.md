@@ -2,8 +2,8 @@ Project Objective:
 Analyze Adventure Works sales data to understand revenue trends, customer behavior, and product performance using Power BI dashboards.
 
 Dataset:
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Calendar%20Lookup.csv">Calender Data</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Customer%20Lookup.csv">Customer Data</a>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Calendar%20Lookup.csv">Calender Data</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Customer%20Lookup.csv">Customer Data</a><br>
 <a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Product%20Categories%20Lookup.csv">Product Categories data</a>
 <a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Product%20Lookup-a.csv">Product</a>
 <a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Product%20Subcategories%20Lookup.csv">Product Subcategies Data</a>
