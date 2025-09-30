@@ -1,53 +1,53 @@
 Project Objective:
 Analyze Adventure Works sales data to understand revenue trends, customer behavior, and product performance using Power BI dashboards.
 
-Dataset:
+Dataset:<br>
 <a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Calendar%20Lookup.csv">Calender Data</a><br>
 <a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Customer%20Lookup.csv">Customer Data</a><br>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Product%20Categories%20Lookup.csv">Product Categories data</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Product%20Lookup-a.csv">Product</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Product%20Subcategories%20Lookup.csv">Product Subcategies Data</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Returns%20Data.csv"> Retuens Data</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Sales%20Data%202020.csv"> Sales 2020 Data</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Sales%20Data%202021.csv">Sales 2021 Data</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Sales%20Data%202022.csv">Sales 2022 Data</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Territory%20Lookup.csv">Territory Data</a>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Product%20Categories%20Lookup.csv">Product Categories data</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Product%20Lookup-a.csv">Product</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Product%20Subcategories%20Lookup.csv">Product Subcategies Data</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Returns%20Data.csv"> Retuens Data</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Sales%20Data%202020.csv"> Sales 2020 Data</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Sales%20Data%202021.csv">Sales 2021 Data</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Sales%20Data%202022.csv">Sales 2022 Data</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/AdventureWorks%20Territory%20Lookup.csv">Territory Data</a><br>
 
 
-Dashboard:
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222452.png"> Executive Dashboard</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222504.pn"> Map Dashboard</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222518.png"> Customer Dashboard</a>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222528.png">Product Details Dashboard</a>
+Dashboard:<br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222452.png"> Executive Dashboard</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222504.pn"> Map Dashboard</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222518.png"> Customer Dashboard</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222528.png">Product Details Dashboard</a><br>
 
 
-Key Questions:
-What are the total sales and profit trends?
-Which products and categories generate the most revenue?
-Who are the top customers and regions driving sales?
-How are sales distributed over time (monthly/quarterly)?
+Key Questions:<br>
+What are the total sales and profit trends?<br>
+Which products and categories generate the most revenue?<br>
+Who are the top customers and regions driving sales?<br>
+How are sales distributed over time (monthly/quarterly)?<br>
 
-KPIs:
-Total Sales Revenue
-Profit Margin
-Year-over-Year Growth
-Sales by Product Category
-Regional Sales Performance
-Top Customers Contribution
+KPIs:<br>
+Total Sales Revenue<br>
+Profit Margin<br>
+Year-over-Year Growth<br>
+Sales by Product Category<br>
+Regional Sales Performance<br>
+Top Customers Contribution<br>
 
-Process:
-Imported and cleaned Adventure Works data.
-Built relationships between sales, product, customer,product categorey,sub categories,Returns,Calender,Territory.
-Created DAX measures for KPIs.
-Created Calculated columns for Customer Priority,Income Level,Educational Category,To find Parents.
-Designed interactive dashboards with filters and visuals.
+Process:<br>
+Imported and cleaned Adventure Works data.<br>
+Built relationships between sales, product, customer,product categorey,sub categories,Returns,Calender,Territory.<br>
+Created DAX measures for KPIs.<br>
+Created Calculated columns for Customer Priority,Income Level,Educational Category,To find Parents.<br>
+Designed interactive dashboards with filters and visuals.<br>
 
-Insights:
-Bikes contributed the highest revenue among all product categories.
-North America had the strongest sales performance.
-A few top customers accounted for a large share of revenue.
-Sales showed seasonal peaks in holiday quarters.
+Insights:<br>
+Bikes contributed the highest revenue among all product categories.<br>
+North America had the strongest sales performance.<br>
+A few top customers accounted for a large share of revenue.<br>
+Sales showed seasonal peaks in holiday quarters.<br>
 
-Final Conclusion:
+Final Conclusion:<br>
 Focusing on high-performing products and strengthening strategies in top regions can increase revenue, while dashboards provide actionable insights for decision-making.
 
