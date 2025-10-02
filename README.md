@@ -16,9 +16,9 @@ Dataset:<br>
 
 Dashboard:<br>
 <a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-10-02%20100404.png"> Executive Dashboard</a><br>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222504.pn"> Map Dashboard</a><br>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222518.png"> Customer Dashboard</a><br>
-<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-09-30%20222528.png">Product Details Dashboard</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-10-02%20100609.png"> Map Dashboard</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-10-02%20100648.png"> Customer Dashboard</a><br>
+<a href="https://github.com/sherinstella/Sales-Dashboard/blob/main/Screenshot%202025-10-02%20100724.png">Product Details Dashboard</a><br>
 
 
 KEY QUESTIONS:<br>
